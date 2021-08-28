@@ -1,4 +1,4 @@
-# Submit project "Unnamed"
+# Submit project "AXOLOTL"
 
 ### Manage team
 
@@ -17,14 +17,14 @@
 
 * Project name
 You can change this at any time.
-TODO (max 60 characters)
+AXOLOTL _(max 60 characters)_
 
 * Elevator pitch
 Provide a short tagline for the project. You can change this later.
-TODO (max 200 characters)
+TODO _(max 200 characters)_
 
 * Thumbnail
-TODO (JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio.)
+TODO _(JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio.)_
 
 Save & continue Cancel
 
