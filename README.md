@@ -1,5 +1,7 @@
 # axolotl
 
+[![GitHub Super-Linter](https://github.com/aquariophilie/axolotl/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 Our modest contribution to [Atlassian Codegeist 2021](https://codegeist.devpost.com/)
 
 ## About Atlassian Codegeist 2021
