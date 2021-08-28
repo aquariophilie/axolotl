@@ -16,4 +16,13 @@ Our modest contribution to [Atlassian Codegeist 2021](https://codegeist.devpost.
 * [Official Rules](https://codegeist.devpost.com/rules)
 * [Devpost Terms of Service](https://info.devpost.com/terms)
 
+## About Atlassian Forge
+
+* <https://developer.atlassian.com/platform/forge/#atlassian-example-apps>
+  - <https://developer.atlassian.com/platform/forge/getting-started/>
+  - <https://developer.atlassian.com/platform/forge/example-apps/>
+  - <https://developer.atlassian.com/platform/forge/build-a-hello-world-app-in-confluence/>
+  - <https://developer.atlassian.com/platform/forge/build-a-hello-world-app-in-jira/>
+* [Atlassian Delivers on Forge App Dev Platform Promise](https://devops.com/atlassian-delivers-on-forge-app-dev-platform-promise/) - DevOps.com, 2021-05-27
+
 <!-- EOF -->
