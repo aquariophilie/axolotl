@@ -15,18 +15,23 @@
 
 ### General info
 
-* Project name
+#### \ * Project name
+
 You can change this at any time.
+
 AXOLOTL _(max 60 characters)_
 
-* Elevator pitch
+#### \* Elevator pitch
+
 Provide a short tagline for the project. You can change this later.
+
 TODO _(max 200 characters)_
 
-* Thumbnail
+#### \* Thumbnail
+
 TODO _(JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio.)_
 
-Save & continue Cancel
+[Save &amp; continue](TODO) [Cancel](TODO)
 
 TODO
 
@@ -67,13 +72,13 @@ _JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio._
 
 Choose files or drag and drop
 
-#### * Video demo link
+#### \* Video demo link
 
 _This video will be embedded at the top of your project page. Read more about uploading videos._
 
 YouTube, Facebook Video, Vimeo or Youku URL
 
-[Save &amp; continue]() [Cancel]()
+[Save &amp; continue](TODO) [Cancel](TODO)
 
 TODO
 
@@ -96,13 +101,13 @@ Nessun file selezionato
 
 Make a selection
 
-#### \* Please indicate your County of Residence.
+#### \* Please indicate your County of Residence
 
 _Appears in project gallery_
 
 Make a selection
 
-#### If you reside in Canada, please indicate the province below.
+#### If you reside in Canada, please indicate the province below
 
 _Note: Residents of Quebec, Canada are ineligible to participate._
 
@@ -116,11 +121,11 @@ _List the countries of your team members if different from team representative._
 
 (empty)
 
-#### * Do you have an app listed in the Atlassian Marketplace?
+#### \* Do you have an app listed in the Atlassian Marketplace?
 
 Make a selection
 
-#### * Which category are you entering your application into?
+#### \* Which category are you entering your application into?
 
 _Appears in project gallery_
 
@@ -130,27 +135,27 @@ Select all that apply
 - [ ] Apps for IT
 - [ ] Apps for Business
 
-#### * Testing instructions for application:
+#### \* Testing instructions for application
 
 _(share any specific info needed to access your project - responses will be not publicly visible)_
 
 TODO
 
-#### * URL where your Forge application can be accessed:
+#### \* URL where your Forge application can be accessed
 
 <https://TODO>
 
-#### * Have you considered/will you be distributing your app into the Atlassian Marketplace?
+#### \* Have you considered/will you be distributing your app into the Atlassian Marketplace?
 
 _Appears in project gallery_
 
 Make a selection
 
-#### * Are you an official Atlassian Partner?
+#### \* Are you an official Atlassian Partner?
 
 Make a selection
 
-[Save &amp; continue]() [Cancel]()
+[Save &amp; continue](TODO) [Cancel](TODO)
 
 TODO
 
@@ -160,9 +165,11 @@ TODO
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/finalization>
 
 Submit project
+
 After submitting, you can still edit your project until the submission deadline.
 
 Final reminder
+
 By submitting an entry, you agree to be bound by the Official Rules, so please read them carefully!
 
 Don’t forget: Include all of your teammates who helped with the project and your required submission video must include a demo of your working application.
@@ -170,10 +177,12 @@ Don’t forget: Include all of your teammates who helped with the project and yo
 Show us what you’ve got!
 
 Terms & conditions
-* I, and all of my team members, have read and agree to be bound by the Official Rules and the Devpost Terms of Service.
+
+* [ ] I, and all of my team members, have read and agree to be bound by the Official Rules and the Devpost Terms of Service.
+
 Please complete required fields in Project overview, Project details, and Additional info before submitting.
 
-Submit project Cancel
+[Submit project](TODO) [Cancel](TODO)
 
 TODO
 
