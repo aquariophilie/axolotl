@@ -9,6 +9,7 @@
 3. [Rafael Esposito](https://devpost.com/raffoespo)
 4. [Luigi Scalzone](https://devpost.com/GGn0)
 
+
 ## Project overview
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/project-overview>
@@ -31,9 +32,7 @@ TODO _(max 200 characters)_
 
 TODO _(JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio.)_
 
-[Save &amp; continue](TODO) [Cancel](TODO)
-
-TODO
+[Save &amp; continue](TODO) | [Cancel](TODO)
 
 
 ## Project details
@@ -78,9 +77,7 @@ _This video will be embedded at the top of your project page. Read more about up
 
 YouTube, Facebook Video, Vimeo or Youku URL
 
-[Save &amp; continue](TODO) [Cancel](TODO)
-
-TODO
+[Save &amp; continue](TODO) | [Cancel](TODO)
 
 
 ## Additional info
@@ -157,7 +154,7 @@ Not sure yet
 
 No
 
-[Save &amp; continue](TODO) [Cancel](TODO)
+[Save &amp; continue](TODO) | [Cancel](TODO)
 
 
 ## Submit
@@ -178,12 +175,13 @@ _Show us what you’ve got!_
 
 #### Terms & conditions
 
+TODO
+
 * [ ] I, and all of my team members, have read and agree to be bound by the Official Rules and the Devpost Terms of Service.
 
 Please complete required fields in [Project overview](TODO) and [Project details](TODO) info before submitting.
 
-[Submit project](TODO) [Cancel](TODO)
+[Submit project](TODO) | [Cancel](TODO)
 
-TODO
 
 <!-- EOF -->
