@@ -1,6 +1,6 @@
 # Submit project "AXOLOTL"
 
-### Manage team
+## Manage team
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/manage-team>
 
@@ -9,13 +9,13 @@
 3. [Rafael Esposito](https://devpost.com/raffoespo)
 4. [Luigi Scalzone](https://devpost.com/GGn0)
 
-### Project overview
+## Project overview
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/project-overview>
 
 ### General info
 
-#### \ * Project name
+#### \* Project name
 
 You can change this at any time.
 
@@ -36,13 +36,13 @@ TODO _(JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 r
 TODO
 
 
-### Project details
+## Project details
 
 For public project page
 
 Information entered below will appear on your public project page.
 
-#### Project Story
+### Project Story
 
 #### \* About the project
 
@@ -64,7 +64,7 @@ URL for demo site, app store listing, GitHub repo, etc.
 
 ADD ANOTHER LINK
 
-#### Project Media
+### Project Media
 
 #### Image gallery
 
@@ -83,7 +83,7 @@ YouTube, Facebook Video, Vimeo or Youku URL
 TODO
 
 
-### Additional info
+## Additional info
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/additional-info/edit>
 
@@ -91,96 +91,96 @@ For judges and organizers
 
 Unless noted, additional info is for judges and hackathon organizers and will not appear on your public project page.
 
-#### Upload a File
+### Upload a File
 
 _Upload a file as part of your submission - e.g., zip, pdf, word, apk, etc. To upload multiple files, put them in a zip file and upload the zip file. Limit: 35 MB._
 
 Nessun file selezionato
 
-#### \* Submitter Type
+### \* Submitter Type
 
-Make a selection
+Team
 
-#### \* Please indicate your County of Residence
+### \* Please indicate your County of Residence
 
 _Appears in project gallery_
 
-Make a selection
+Italy
 
-#### If you reside in Canada, please indicate the province below
+### If you reside in Canada, please indicate the province below
 
 _Note: Residents of Quebec, Canada are ineligible to participate._
 
 (empty)
 
-#### Team member countries of residence (if applicable)
+### Team member countries of residence (if applicable)
 
 _List the countries of your team members if different from team representative._
 
-#### Organization name (if applicable)
+(empty)
+
+### Organization name (if applicable)
 
 (empty)
 
-#### \* Do you have an app listed in the Atlassian Marketplace?
+### \* Do you have an app listed in the Atlassian Marketplace?
 
-Make a selection
+No
 
-#### \* Which category are you entering your application into?
+### \* Which category are you entering your application into?
 
 _Appears in project gallery_
 
 Select all that apply
 
-- [ ] Apps for DevOps
+- [x] Apps for DevOps
 - [ ] Apps for IT
 - [ ] Apps for Business
 
-#### \* Testing instructions for application
+### \* Testing instructions for application
 
 _(share any specific info needed to access your project - responses will be not publicly visible)_
 
 TODO
 
-#### \* URL where your Forge application can be accessed
+### \* URL where your Forge application can be accessed
 
-<https://TODO>
+<https://TODO.domain.com>
 
-#### \* Have you considered/will you be distributing your app into the Atlassian Marketplace?
+### \* Have you considered/will you be distributing your app into the Atlassian Marketplace?
 
 _Appears in project gallery_
 
-Make a selection
+Not sure yet
 
 #### \* Are you an official Atlassian Partner?
 
-Make a selection
+No
 
 [Save &amp; continue](TODO) [Cancel](TODO)
 
-TODO
 
-
-### Submit
+## Submit
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/finalization>
 
-Submit project
+### Submit project
 
 After submitting, you can still edit your project until the submission deadline.
 
-Final reminder
+#### Final reminder
 
 By submitting an entry, you agree to be bound by the Official Rules, so please read them carefully!
 
-Don’t forget: Include all of your teammates who helped with the project and your required submission video must include a demo of your working application.
+**Don’t forget**: Include all of your teammates who helped with the project and your required submission video must include a demo of your working application.
 
-Show us what you’ve got!
+_Show us what you’ve got!_
 
-Terms & conditions
+#### Terms & conditions
 
 * [ ] I, and all of my team members, have read and agree to be bound by the Official Rules and the Devpost Terms of Service.
 
-Please complete required fields in Project overview, Project details, and Additional info before submitting.
+Please complete required fields in [Project overview](TODO) and [Project details](TODO) info before submitting.
 
 [Submit project](TODO) [Cancel](TODO)
 
