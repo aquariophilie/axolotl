@@ -1,4 +1,4 @@
-## Submit project "Unnamed"
+# Submit project "Unnamed"
 
 ### Manage team
 
@@ -73,7 +73,7 @@ _This video will be embedded at the top of your project page. Read more about up
 
 YouTube, Facebook Video, Vimeo or Youku URL
 
-[Save & continue]() [Cancel]()
+[Save &amp; continue]() [Cancel]()
 
 TODO
 
@@ -130,13 +130,13 @@ Select all that apply
 - [ ] Apps for IT
 - [ ] Apps for Business
 
-#### * Testing instructions for application.
+#### * Testing instructions for application:
 
 _(share any specific info needed to access your project - responses will be not publicly visible)_
 
 TODO
 
-#### * URL where your Forge application can be accessed.
+#### * URL where your Forge application can be accessed:
 
 <https://TODO>
 
@@ -150,7 +150,7 @@ Make a selection
 
 Make a selection
 
-[Save & continue]() [Cancel]()
+[Save &amp; continue]() [Cancel]()
 
 TODO
 
@@ -165,7 +165,7 @@ After submitting, you can still edit your project until the submission deadline.
 Final reminder
 By submitting an entry, you agree to be bound by the Official Rules, so please read them carefully!
 
-Don’t forget: Include all of your teammates who helped with the project and your required submission video must include a demo of your working application. 
+Don’t forget: Include all of your teammates who helped with the project and your required submission video must include a demo of your working application.
 
 Show us what you’ve got!
 
