@@ -30,6 +30,7 @@ More details:
   - <https://developer.atlassian.com/platform/forge/example-apps/>
   - <https://developer.atlassian.com/platform/forge/build-a-hello-world-app-in-confluence/>
   - <https://developer.atlassian.com/platform/forge/build-a-hello-world-app-in-jira/>
+* Forge examples: <https://bitbucket.org/atlassian/workspace/projects/FE>
 * [Atlassian Delivers on Forge App Dev Platform Promise](https://devops.com/atlassian-delivers-on-forge-app-dev-platform-promise/) - DevOps.com, 2021-05-27
 
 <!-- EOF -->
