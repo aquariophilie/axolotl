@@ -14,6 +14,8 @@
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/project-overview>
 
+Please respect our [Community Guidelines](https://info.devpost.com/guidelines).
+
 ### General info
 
 #### \* Project name
@@ -37,7 +39,9 @@ Provide a short tagline for the project. You can change this later.
 
 ## Project details
 
-For public project page
+<https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342-axolotl/project_details/edit>
+
+_For public project page_
 
 Information entered below will appear on your public project page.
 
@@ -45,21 +49,38 @@ Information entered below will appear on your public project page.
 
 #### \* About the project
 
-_Be sure to write what inspired you, what you learned, how you built your project, and the challenges you faced. Format your story in Markdown._
+_Be sure to write what inspired you, what you learned, how you built your project, and the challenges you faced._
+_Format your story in [Markdown](https://www.markdownguide.org/cheat-sheet/)._
 
-`TODO` _"## Inspiration..."_
+TODO
+
+```text
+## Inspiration
+
+## What it does
+
+## How we built it
+
+## Challenges we ran into
+
+## Accomplishments that we're proud of
+
+## What we learned
+
+## What's next for AXOLOTL
+```
 
 #### \* Built with
 
-`TODO` _What languages, frameworks, platforms, cloud services, databases, APIs, or other technologies did you use?_
+_What languages, frameworks, platforms, cloud services, databases, APIs, or other technologies did you use?_
 
-- Languages, frameworks, platforms, cloud services, databases, APIs, etc.
+`TODO: Languages, frameworks, platforms, cloud services, databases, APIs, etc.`
 
 #### "Try it out" links
 
-`TODO` _Add links where people can try your project or see your code._
+_Add links where people can try your project or see your code._
 
-URL for demo site, app store listing, GitHub repo, etc.
+`TODO: URL for demo site, app store listing, GitHub repo, etc.`
 
 ADD ANOTHER LINK
 
@@ -67,15 +88,16 @@ ADD ANOTHER LINK
 
 #### Image gallery
 
-`TODO` _JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio._
+_JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio._
 
-Choose files or drag and drop
+`TODO: Choose files or drag and drop`
 
 #### \* Video demo link
 
-`TODO` _This video will be embedded at the top of your project page. Read more about uploading videos._
+_This video will be embedded at the top of your project page._
+_Read more about [uploading videos](https://help.devpost.com/hc/en-us/articles/360052233752-Uploading-a-demo-video)._
 
-YouTube, Facebook Video, Vimeo or Youku URL
+`TODO: YouTube, Facebook Video, Vimeo or Youku URL`
 
 [Save &amp; continue](TODO) | [Cancel](TODO)
 
@@ -84,15 +106,15 @@ YouTube, Facebook Video, Vimeo or Youku URL
 
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/additional-info/edit>
 
-For judges and organizers
+_For judges and organizers_
 
 Unless noted, additional info is for judges and hackathon organizers and will not appear on your public project page.
 
 ### Upload a File
 
-`TODO` _Upload a file as part of your submission - e.g., zip, pdf, word, apk, etc. To upload multiple files, put them in a zip file and upload the zip file. Limit: 35 MB._
+_Upload a file as part of your submission - e.g., zip, pdf, word, apk, etc. To upload multiple files, put them in a zip file and upload the zip file. Limit: 35 MB._
 
-Nessun file selezionato
+`TODO: Nessun file selezionato`
 
 ### \* Submitter Type
 
@@ -175,7 +197,7 @@ _Show us what you’ve got!_
 
 #### Terms & conditions
 
-TODO
+TODO: [Preview](https://devpost.com/software/axolotl)
 
 * [ ] I, and all of my team members, have read and agree to be bound by the Official Rules and the Devpost Terms of Service.
 
