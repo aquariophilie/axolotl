@@ -1,1 +1,5 @@
-TODO
+# Brainstorming :mechanical_arm:
+
+### On 09/02/2021 we decided the following task 
+
+- Create bottle traceability through QR-Code.
