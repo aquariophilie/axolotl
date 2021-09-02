@@ -2,4 +2,4 @@
 
 ### On 09/02/2021 we decided the following task 
 
-- Create bottle traceability through QR-Code.
+- Create bottle :champagne: traceability through QR-Code.
