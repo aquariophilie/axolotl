@@ -29,7 +29,7 @@ More details:
 ### Get Set Up
 
 * [Atlassian Cloud Developer License](https://developer.atlassian.com/cloud/)
-* [Getting Started documentation]()
+* [Getting Started documentation](https://developer.atlassian.com/platform/forge/getting-started/)
 
 ### Technical Resources
 
