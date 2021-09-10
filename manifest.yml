@@ -1,0 +1,18 @@
+modules:
+  macro:
+    - key: qr-code
+      function: main
+      title: QR Code
+      description: Displays a QR Code
+      config:
+        function: config
+  function:
+    - key: main
+      handler: index.run
+    - key: config
+      handler: index.config
+app:
+  id: ari:cloud:ecosystem::app/f4f9a8eb-0012-4591-9425-7d6d8d48ff36
+permissions:
+  scopes:
+    - 'read:confluence-content.summary'
