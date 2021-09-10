@@ -80,9 +80,11 @@ _What languages, frameworks, platforms, cloud services, databases, APIs, or othe
 
 _Add links where people can try your project or see your code._
 
-`TODO: URL for demo site, app store listing, GitHub repo, etc.`
+`(URL for demo site, app store listing, GitHub repo, etc.)`
 
-ADD ANOTHER LINK
+- <https://teti.atlassian.net/wiki/spaces/AXT/overview>
+
+<!-- ADD ANOTHER LINK -->
 
 ### Project Media
 
