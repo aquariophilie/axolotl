@@ -12,6 +12,26 @@ and licensed under the Apache License, Version 2.0.
 
 Please refer to the original repository at <https://bitbucket.org/atlassian/forge-qr-code/> for details.
 
+### Prerequisites
+
+* [Node.js](https://nodejs.org/) v12.x or later
+* [Forge CLI](https://www.npmjs.com/package/@forge/cli):
+
+  ```bash
+  npm i -g @forge/cli
+  ```
+
+  If the command fails, please check the
+  [@forge/cli NPM page](https://www.npmjs.com/package/@forge/cli)
+  for installation details
+
+### Usage
+
+```bash
+npm install
+npm run validate
+```
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
