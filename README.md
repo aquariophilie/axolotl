@@ -4,6 +4,13 @@
 
 Our modest contribution to [Atlassian Codegeist 2021](https://codegeist.devpost.com/).
 
+## AXOLOTL - Atlassian Forge app
+
+The `src` folder contains the source code of the AXOLOTL Forge app which is based upon the 
+Forge Example "Forge QR Code" and licensed under the Apache License, Version 2.0. 
+
+Please refer to the original repository at <https://bitbucket.org/atlassian/forge-qr-code/> for details.
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
