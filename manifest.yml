@@ -2,7 +2,7 @@ modules:
   macro:
     - key: qr-code
       function: main
-      title: QR Code
+      title: Axolotl QR Code
       description: Displays a QR Code
       config:
         function: config
