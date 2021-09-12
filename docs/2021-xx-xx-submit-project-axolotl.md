@@ -155,8 +155,8 @@ _Appears in project gallery_
 Select all that apply
 
 - [x] Apps for DevOps
-- [ ] Apps for IT
-- [ ] Apps for Business
+- [x] Apps for IT
+- [x] Apps for Business
 
 ### \* Testing instructions for application
 
