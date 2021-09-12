@@ -8,32 +8,15 @@ const defaultConfig = {
   label: ""
 };
 
-const fetchPageTitleAndUrlForContent = async (contentId) => {
-  const res = await api
-    .asUser()
-    .requestConfluence(route`/wiki/rest/api/content/${contentId}`);
-
-  const data = await res.json();
-  const result = {
-    title: '',
-    url: ''
-  };
-  if (data && data._links && data._links.self) {
-    result.url = data._links.base + data._links.tinyui;
-    result.title = data.title;
-  }
-  return result;
-};
 /* 
 const getPageContext = async () => await view.getContext(); */
 
 const Config = () => {
   const context = useProductContext();
-  const pageData = useState(async () => await fetchPageTitleAndUrlForContent(context.contentId));
   /* console.log(JSON.stringify(pageContext)); */
   return (
     <MacroConfig>
-      <TextArea isRequired={true} label="URL" name="url" defaultValue={pageData[0].url} />
+      <TextArea isRequired={true} label="URL" name="url" defaultValue={defaultConfig.url} />
       <TextField isRequired={false} label="LABEL" name="label" defaultValue="" />
       <Select label="Color" name="color">
         <Option label="N800 - Squid ink" value="172B4D" />
@@ -50,7 +33,6 @@ const Config = () => {
 
 const App = () => {
   const context = useProductContext();
-  const pageData = useState(async () => await fetchPageTitleAndUrlForContent(context.contentId));
   const { url, color, label } = useConfig() || defaultConfig || { url: '', color: '172B4D', label: '' };
   /* const { url, color } = useConfig(); */
   const colorHex = "#" + color;
