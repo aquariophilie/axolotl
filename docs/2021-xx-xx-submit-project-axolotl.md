@@ -74,7 +74,21 @@ TODO
 
 _What languages, frameworks, platforms, cloud services, databases, APIs, or other technologies did you use?_
 
-`TODO: Languages, frameworks, platforms, cloud services, databases, APIs, etc.`
+```
+We developed the code for this project in [JavaScript](https://www.javascript.com/)
+and [TypeScript](https://www.typescriptlang.org/) 
+using [Node.js](https://nodejs.org/) v14.x and the
+[Forge Framework](https://developer.atlassian.com/platform/forge/).
+
+Additionally, the [qrcode-svg](https://www.npmjs.com/package/qrcode-svg) package
+was used to render QR Codes.
+
+For the purpose of Codegeist 2021 we made no use of databases or backend APIs,
+even though the app can be easily extended to connect to public and private databases and backends.
+
+The created App was deployed to Atlassian Cloud under the space:
+<https://teti.atlassian.net/wiki/spaces/AXT/overview>
+```
 
 #### "Try it out" links
 
