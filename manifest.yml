@@ -3,7 +3,7 @@ modules:
     - key: qr-code
       function: main
       title: Axolotl QR Code
-      description: Displays a QR Code
+      description: Displays a QR Code connect to a capping machine report
       config:
         function: config
   function:
