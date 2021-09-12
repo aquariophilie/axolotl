@@ -96,7 +96,8 @@ _Add links where people can try your project or see your code._
 
 `(URL for demo site, app store listing, GitHub repo, etc.)`
 
-- <https://teti.atlassian.net/wiki/spaces/AXT/overview>
+- GitHub repo: <https://github.com/aquariophilie/axolotl>
+- Demo site: <https://teti.atlassian.net/wiki/spaces/AXT/overview>
 
 <!-- ADD ANOTHER LINK -->
 
