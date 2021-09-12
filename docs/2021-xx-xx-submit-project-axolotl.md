@@ -74,7 +74,7 @@ TODO
 
 _What languages, frameworks, platforms, cloud services, databases, APIs, or other technologies did you use?_
 
-```
+```text
 We developed the code for this project in [JavaScript](https://www.javascript.com/)
 and [TypeScript](https://www.typescriptlang.org/) 
 using [Node.js](https://nodejs.org/) v14.x and the
