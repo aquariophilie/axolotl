@@ -181,7 +181,7 @@ _(share any specific info needed to access your project - responses will be not 
 
 ### \* URL where your Forge application can be accessed
 
-<https://TODO.domain.com>
+<https://teti.atlassian.net/wiki/spaces/AXT/overview>
 
 ### \* Have you considered/will you be distributing your app into the Atlassian Marketplace?
 
