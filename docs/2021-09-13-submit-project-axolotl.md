@@ -62,11 +62,11 @@ _Format your story in [Markdown](https://www.markdownguide.org/cheat-sheet/)._
 ```text
 ## Inspiration
 
-The project started out of a concrete requirements in our everyday job. However, since we are doing secret stuff in our workday, we pivoted the idea to a project which allows traceability of wine bottles.
+The project started out of some concrete requirements in our everyday job. However, since we are doing secret stuff in our workday, we pivoted the idea to a project which allows traceability of wine bottles.
 
 ## What it does
 
-The app allows to create QR Code programmatically and insert them into a Confluence page. The idea is to use them to attach to physical items (for instance, a wine bottle) so that users of the item can access online, up-to-date information about such item. We demonstrated it with a concrete use case for wine, but of course this is just one example of application.
+The app allows to programmatically create QR Codes and insert them into a Confluence page. The idea is to use them to attach to physical items (for instance, a bottle of wine) so that the users can access online, up-to-date information about such item. We demonstrated such concept with a concrete use case for wines, but of course this is just one example of possibile applications of the app.
 
 ## How we built it
 
@@ -90,7 +90,12 @@ That planning is essential to hit milestones!
 
 ## What's next for AXOLOTL
 
-Who knows? Maybe we will extend the project for our actual use cases in our main job?
+Who knows? Maybe we will extend the project for our actual use cases in our main job...
+
+## Why the name "AXOLOTL"?
+
+For no real reasons except that we (the team who created the app) are a group of friends who like participating to hackathons.
+We call ourself "[Aquariophilie](https://github.com/aquariophilie)" and each project we develop has a name of either a fish or seafood.
 ```
 
 #### \* Built with
