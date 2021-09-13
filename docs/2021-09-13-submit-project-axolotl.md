@@ -114,7 +114,9 @@ _JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio._
 _This video will be embedded at the top of your project page._
 _Read more about [uploading videos](https://help.devpost.com/hc/en-us/articles/360052233752-Uploading-a-demo-video)._
 
-`TODO: YouTube, Facebook Video, Vimeo or Youku URL`
+<!-- `TODO: YouTube, Facebook Video, Vimeo or Youku URL` -->
+
+<https://vimeo.com/604008315>
 
 [Save &amp; continue](TODO) | [Cancel](TODO)
 
