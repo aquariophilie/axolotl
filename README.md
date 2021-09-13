@@ -12,6 +12,8 @@ and licensed under the Apache License, Version 2.0.
 
 Please refer to the original repository at <https://bitbucket.org/atlassian/forge-qr-code/> for details.
 
+The AXOLOTL project was submitted to Codegeist 2021 less than 2 hours before the deadline - please see <https://devpost.com/software/axolotl>
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
