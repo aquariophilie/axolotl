@@ -5,7 +5,7 @@
 <https://devpost.com/submit-to/12998-codegeist-2021/manage/submissions/255342/manage-team>
 
 1. [Gianpaolo Macario](https://devpost.com/gmacario)
-2. [gteti](https://devpost.com/gteti)
+2. [Gianluca Teti](https://devpost.com/gteti)
 3. [Rafael Esposito](https://devpost.com/raffoespo)
 4. [Luigi Scalzone](https://devpost.com/GGn0)
 
