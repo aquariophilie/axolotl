@@ -194,7 +194,7 @@ Select all that apply
 _(share any specific info needed to access your project - responses will be not publicly visible)_
 
 ```text
-* Browse the demo URL
+* From your favourite browser, open the demo URL
 * Fill in the required information
 * Print the QR Code to an adhesive label
 * Place the label to the bottle
