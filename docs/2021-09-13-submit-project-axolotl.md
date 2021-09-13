@@ -82,7 +82,7 @@ Mostly time... We assumed we had more spare time over the weekend, but this was 
 
 ## Accomplishments that we're proud of
 
-That we managed to complete the submission just a couple of hours before the deadline...
+That we managed to complete the submission less than a couple of hours before the deadline...
 
 ## What we learned
 
