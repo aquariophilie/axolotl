@@ -193,7 +193,15 @@ Select all that apply
 
 _(share any specific info needed to access your project - responses will be not publicly visible)_
 
-`TODO`
+```text
+* Browse the demo URL
+* Fill in the required information
+* Print the QR Code to an adhesive label
+* Place the label to the bottle
+* Run a QR Code scanner app on your smartphone
+  - For instance on Android you may use [QR Barcode Scanner Pro](https://play.google.com/store/apps/details?id=com.lahastudio.barcode.pro)
+* Navigate the link and read the supplemental information
+```
 
 ### \* URL where your Forge application can be accessed
 
