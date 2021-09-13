@@ -67,22 +67,38 @@ Information entered below will appear on your public project page.
 _Be sure to write what inspired you, what you learned, how you built your project, and the challenges you faced._
 _Format your story in [Markdown](https://www.markdownguide.org/cheat-sheet/)._
 
-TODO
-
 ```text
 ## Inspiration
 
+The project started out of a concrete requirements in our everyday job. However, since we are doing secret stuff in our workday, we pivoted the idea to a project which allows traceability of wine bottles.
+
 ## What it does
+
+The app allows to create QR Code programmatically and insert them into a Confluence page. The idea is to use them to attach to physical items (for instance, a wine bottle) so that users of the item can access online, up-to-date information about such item. We demonstrated it with a concrete use case for wine, but of course this is just one example of application.
 
 ## How we built it
 
+The AXOLOTL application leverages the
+"Forge QR Code" example at
+<https://bitbucket.org/atlassian/workspace/projects/FE>.
+
+We made a few small extensions to the original sources, for instance the capability to render not just the QR Code but also a few additional attributes in cleartext. This can hint end users that they may get more details by scanning the QR Code.
+
 ## Challenges we ran into
+
+Mostly time... We assumed we had more spare time over the weekend, but this was not the case. For instance, one of us was busy harvesting grapes at the in-laws vineyard - by the way, that was the main inspiration for the app :-) 
 
 ## Accomplishments that we're proud of
 
+That we managed to complete the submission just a couple of hours before the deadline...
+
 ## What we learned
 
+That planning is essential to hit milestones!
+
 ## What's next for AXOLOTL
+
+Who knows? Maybe we will extend the project for our actual use cases in our main job?
 ```
 
 #### \* Built with
