@@ -31,16 +31,8 @@ Provide a short tagline for the project. You can change this later.
 _(max 200 characters)_
 
 ```text
-AXOLOTL - A QR Code app for wine bottles history tracking
-
-When you are drinking with your friends or maybe your significant other
-you may want to share your knowledge about the fine bottles you are enjoying:
-
-* **Where** does your wine come from?
-* **When** was this bottled?
-* **How** do you store your bottle?
-
-Just scan your **AXOLOTL QR Code** and you will get all the information you want... You just have to enjoy your wine!
+When you are opening a bottle of fine wine you may ask where it comes from, or when it was bottled, etc. Just scan your AXOLOTL QR Code and you will know this and more...
+You just have to drink!
 ```
 
 #### \* Thumbnail
