@@ -45,7 +45,9 @@ Just scan your **AXOLOTL QR Code** and you will get all the information you want
 
 #### \* Thumbnail
 
-`TODO` _(JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio.)_
+_(JPG, PNG or GIF format, 5 MB max file size. For best results, use a 3:2 ratio.)_
+
+![bottle and AXOLOTL](images/bottle_axolotl.jpg)
 
 [Save &amp; continue](TODO) | [Cancel](TODO)
 
