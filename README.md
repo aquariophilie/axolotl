@@ -34,6 +34,8 @@ npm install
 npm run validate
 ```
 
+TODO: What should we do to deploy the app **in production** to a Confluence site so that end-users can instantiate the widget?
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
