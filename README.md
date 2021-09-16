@@ -74,6 +74,14 @@ forge install
 
 You will be asked to select the product (in this case `Confluence`) and the site where to install the app (e.g. `username.atlassian.net`)
 
+---
+
+If everything went as expected, you should find the app on your confluence site.
+
+Test it creating an empty document and inserting the app `/qrcode`
+
+> :warning: When you add the app in your confluence page you won't find it with the name specified after the `forge register` command. Instead look for the title in `manifest.yml`. In this case the app is called Axolotl QR Code
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
