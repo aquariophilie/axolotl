@@ -37,7 +37,7 @@ forge --version
 You should see ```2.0.1```
 
 Before deploying your app you need to create an API key on your atlassian space:
-[Atlassian API Token ] (https://id.atlassian.com/manage/api-tokens)
+[Atlassian API Token ](https://id.atlassian.com/manage/api-tokens)
 Click on *Create API token*.
 
 After the creation, copy the created code and then run from command line:
@@ -45,7 +45,7 @@ After the creation, copy the created code and then run from command line:
 forge login
 ```
 
-Follow the steps displayed and insert the API Token where requested.
+Follow the steps displayed and insert the API Token when requested.
 
 ## About Atlassian Codegeist 2021
 
