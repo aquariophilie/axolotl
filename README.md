@@ -47,6 +47,33 @@ forge login
 
 Follow the steps displayed and insert the API Token when requested.
 
+
+You can then register the app and choose a name for it
+
+```bash
+forge register
+```
+
+Next, it's necessary to install the dependencies
+
+```bash
+npm install
+```
+
+Deploy the app on the development environment
+
+```bash
+forge deploy
+```
+
+And finally install it on your site
+
+```bash
+forge install
+```
+
+You will be asked to select the product (in this case `Confluence`) and the site where to install the app (e.g. `username.atlassian.net`)
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
