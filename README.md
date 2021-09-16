@@ -27,7 +27,7 @@ The AXOLOTL project was submitted to Codegeist 2021 less than 2 hours before the
   [@forge/cli NPM page](https://www.npmjs.com/package/@forge/cli)
   for installation details
 
-### Usage
+### Installing the app
 
 Check that forge is installed correctly:
 
@@ -47,14 +47,13 @@ forge login
 
 Follow the steps displayed and insert the API Token when requested.
 
-
 You can then register the app and choose a name for it
 
 ```bash
 forge register
 ```
 
-Next, it's necessary to install the dependencies
+Next, it is necessary to install the dependencies
 
 ```bash
 npm install
@@ -74,13 +73,14 @@ forge install
 
 You will be asked to select the product (in this case `Confluence`) and the site where to install the app (e.g. `username.atlassian.net`)
 
----
-
 If everything went as expected, you should find the app on your confluence site.
 
-Test it creating an empty document and inserting the app `/qrcode`
+### Usage
 
-> :warning: When you add the app in your confluence page you won't find it with the name specified after the `forge register` command. Instead look for the title in `manifest.yml`. In this case the app is called Axolotl QR Code
+You can test the AXOLOTL app by creating an empty document in Confluence and inserting app `/qrcode`
+
+> :warning: When you add the app in your Confluence page you won't find it with the name specified after the `forge register` command.
+> Instead, look for the title in `manifest.yml`. In this case the app is called "Axolotl QR Code"
 
 ## About Atlassian Codegeist 2021
 
