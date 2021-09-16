@@ -14,6 +14,74 @@ Please refer to the original repository at <https://bitbucket.org/atlassian/forg
 
 The AXOLOTL project was submitted to Codegeist 2021 less than 2 hours before the deadline - please see <https://devpost.com/software/axolotl>
 
+### Prerequisites
+
+* [Node.js](https://nodejs.org/) v12.x or later
+* [Forge CLI](https://www.npmjs.com/package/@forge/cli):
+
+  ```bash
+  npm i -g @forge/cli
+  ```
+
+  If the command fails, please check the
+  [@forge/cli NPM page](https://www.npmjs.com/package/@forge/cli)
+  for installation details
+
+### Installing the app
+
+Check that forge is installed correctly:
+
+```bash
+forge --version
+```
+You should see ```2.0.1```
+
+Before deploying your app you need to create an API key on your atlassian space:
+[Atlassian API Token](https://id.atlassian.com/manage/api-tokens)
+Click on *Create API token*.
+
+After the creation, copy the created code and then run from command line:
+```bash
+forge login
+```
+
+Follow the steps displayed and insert the API Token when requested.
+
+You can then register the app and choose a name for it
+
+```bash
+forge register
+```
+
+Next, it is necessary to install the dependencies
+
+```bash
+npm install
+```
+
+Deploy the app on the development environment
+
+```bash
+forge deploy
+```
+
+And finally install it on your site
+
+```bash
+forge install
+```
+
+You will be asked to select the product (in this case `Confluence`) and the site where to install the app (e.g. `username.atlassian.net`)
+
+If everything went as expected, you should find the app on your confluence site.
+
+### Usage
+
+You can test the AXOLOTL app by creating an empty document in Confluence and inserting app `/qrcode`
+
+> :warning: When you add the app in your Confluence page you won't find it with the name specified after the `forge register` command.
+> Instead, look for the title in `manifest.yml`. In this case the app is called "Axolotl QR Code"
+
 ## About Atlassian Codegeist 2021
 
 Highlights from the [Codegeist 2021 Home Page](https://codegeist.devpost.com/):
