@@ -29,12 +29,23 @@ The AXOLOTL project was submitted to Codegeist 2021 less than 2 hours before the
 
 ### Usage
 
+Check that forge is installed correctly:
+
 ```bash
-npm install
-npm run validate
+forge --version
+```
+You should see ```2.0.1```
+
+Before deploying your app you need to create an API key on your atlassian space:
+[Atlassian API Token ] (https://id.atlassian.com/manage/api-tokens)
+Click on *Create API token*.
+
+After the creation, copy the created code and then run from command line:
+```bash
+forge login
 ```
 
-TODO: What should we do to deploy the app **in production** to a Confluence site so that end-users can instantiate the widget?
+Follow the steps displayed and insert the API Token where requested.
 
 ## About Atlassian Codegeist 2021
 
